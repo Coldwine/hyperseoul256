@@ -1,0 +1,16 @@
+{
+  "name": "seoul256",
+  "version": "0.0.1",
+  "description": "HyperTerm port of the amazing seoul256 colors",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Coldwine/hyperseoul256.git"
+  },
+  "keywords": [ "hyperterm" ],
+  "author": "Marcel Krause",
+  "bugs": {
+    "url": "https://github.com/Coldwine/hyperseoul256/issues"
+  },
+  "homepage": "https://github.com/Coldwine/hyperseoul256#readme"
+}
